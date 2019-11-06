@@ -1,7 +1,8 @@
 {
   "name": "react-crud-with-postgresql",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
+  "start": "nodemon server.js",
   "repository": "git@github.com:Giovanni532/react-with-postgresql.git",
   "author": "Giovanni Salcuni <giovanni.salcuni12@gmail.com>",
   "license": "MIT",
